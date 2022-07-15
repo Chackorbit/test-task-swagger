@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-swagger/static/css/main.e0fb40b6.css",
+    "main.js": "/test-task-swagger/static/js/main.e14600d1.js",
+    "index.html": "/test-task-swagger/index.html",
+    "main.e0fb40b6.css.map": "/test-task-swagger/static/css/main.e0fb40b6.css.map",
+    "main.e14600d1.js.map": "/test-task-swagger/static/js/main.e14600d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0fb40b6.css",
+    "static/js/main.e14600d1.js"
+  ]
+}
