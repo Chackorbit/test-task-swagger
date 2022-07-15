@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react';
 import { Link, Route, Routes, useParams } from 'react-router-dom';
 import { getTerms } from 'utils/fetchApi';
 import Brands from './Brands';
-import Styles from './Styles';
 
 export default function Terms() {
   const [terms, setTerms] = useState([]);
